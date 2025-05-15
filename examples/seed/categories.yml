@@ -1,0 +1,16 @@
+fields:
+  - name: name_uk
+    type: fake
+    value: '{sentence:3}'
+
+  - name: name_en
+    type: dependent
+    value: name_uk
+
+  - name: description_uk
+    type: fake
+    value: '{sentence:10}'
+
+  - name: description_en
+    type: dependent
+    value: description_uk

@@ -1,0 +1,8 @@
+fields:
+  - name: name_uk
+    type: fake
+    value: '{sentence:3}'
+
+  - name: name_en
+    type: dependent
+    value: name_uk

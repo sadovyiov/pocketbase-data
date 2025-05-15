@@ -1,0 +1,26 @@
+[
+	{
+		"title_uk": "Інноваційні технології в сучасній медицині",
+		"title_en": "Innovative Technologies in Modern Medicine",
+		"slug": "innovative-technologies-modern-medicine",
+		"content_uk": "У цій статті розглядаються найновіші досягнення в галузі медичних технологій. Ми досліджуємо, як штучний інтелект, роботизована хірургія та передові методи діагностики трансформують сучасну охорону здоров'я. Особлива увага приділяється перспективам розвитку персоналізованої медицини.",
+		"content_en": "This article examines the latest achievements in medical technology. We explore how artificial intelligence, robotic surgery, and advanced diagnostic methods are transforming modern healthcare. Special attention is paid to the prospects for the development of personalized medicine.",
+		"status": "active"
+	},
+	{
+		"title_uk": "Екологічні інновації у міському транспорті",
+		"title_en": "Environmental Innovations in Urban Transport",
+		"slug": "environmental-innovations-urban-transport",
+		"content_uk": "Розглядаємо сучасні рішення для екологічного міського транспорту. Електробуси, системи спільного використання велосипедів та інноваційні технології зарядки змінюють обличчя міської мобільності. Аналізуємо успішні проєкти та їх вплив на довкілля.",
+		"content_en": "We examine modern solutions for eco-friendly urban transport. Electric buses, bike-sharing systems, and innovative charging technologies are changing the face of urban mobility. We analyze successful projects and their environmental impact.",
+		"status": "active"
+	},
+	{
+		"title_uk": "Штучний інтелект у освіті",
+		"title_en": "Artificial Intelligence in Education",
+		"slug": "artificial-intelligence-education",
+		"content_uk": "Досліджуємо як штучний інтелект трансформує освітній процес. Від персоналізованого навчання до автоматизованої оцінки знань, технології змінюють способи викладання та засвоєння інформації. Розглядаємо перспективи та виклики впровадження ШІ в освіту.",
+		"content_en": "We explore how artificial intelligence is transforming the educational process. From personalized learning to automated knowledge assessment, technologies are changing the ways of teaching and information absorption. We examine the prospects and challenges of AI implementation in education.",
+		"status": "active"
+	}
+]
